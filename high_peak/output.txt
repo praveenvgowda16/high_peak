@@ -1,0 +1,24 @@
+number of employees are :2
+Here the goodies that are selected for distribution are:
+Alexa:9999
+Microwave Oven:9800
+And the difference between the chosen goodie with highest price and the lowest price is :199
+-----------------------------
+number of employees are :4
+Here the goodies that are selected for distribution are:
+Alexa:9999
+Microwave Oven:9800
+Digital Camera:11101
+Fitbit Plus:7980
+And the difference between the chosen goodie with highest price and the lowest price is :3121
+-----------------------------
+number of employees are :6
+Here the goodies that are selected for distribution are:
+Alexa:9999
+Microwave Oven:9800
+Digital Camera:11101
+Fitbit Plus:7980
+Scale:4999
+Cult Pass:2799
+And the difference between the chosen goodie with highest price and the lowest price is :8302
+-----------------------------
